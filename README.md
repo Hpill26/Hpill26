@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hpill26
+- 👋 Hi, I’m Harish.
 - 👀 I’m interested in Machine learning and Basketball.
-- 🌱 I’m currently learning Computer Science in college.
+- 🌱 I’m currently a CS graduate looking for full-time oppurtunities.
 - 💞️ I’m looking to collaborate on any cs projects involving ML/AI, or DBMS.
 - 📫 How to reach me: email me at hkkpbus@gmail.com
 
